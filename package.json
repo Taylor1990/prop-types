@@ -1,5 +1,5 @@
 {
-  "name": "prop-types",
+  "name": "prop-types-qasl",
   "version": "15.6.1",
   "description": "Runtime type checking for React props and similar objects.",
   "main": "index.js",
